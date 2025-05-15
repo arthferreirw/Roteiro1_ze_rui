@@ -56,5 +56,5 @@ Curso de Ciência da Computação, Instituto Federal do Sudeste de Minas Gerais
 
 # Autores 👨‍🎓
 
-- **Arthur Pimentel**
-- **João Paulo Marques**
+ - 👨‍💻 [***Arthur Pimentel***](https://github.com/arthferreirw)
+- 👨‍💻 [**João Paulo Marques**](https://github.com/joaopxulo)
